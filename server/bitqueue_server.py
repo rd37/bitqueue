@@ -17,7 +17,7 @@ import webob.dec
 import webob.exc
 
 HOST = '0.0.0.0'
-PORT = 9494
+PORT = 80
 
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s %(levelname)s %(message)s',
