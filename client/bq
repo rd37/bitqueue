@@ -1,0 +1,12 @@
+#!/usr/bin/python
+
+import os,sys,bitqueue_client
+
+def handle(req):
+    bitqueue_client.handle(req)
+
+def main():
+    handle(sys.argv[1:])
+
+if __name__=="__main__":
+    sys.exit(main())

@@ -1,7 +1,7 @@
 import sys
 import urllib2
 
-HOST='http://localhost:9494'
+HOST='http://52.27.123.175:9494'
 
 def handle(req):
     if req[0] == 'push':
