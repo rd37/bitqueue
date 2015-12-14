@@ -1,0 +1,17 @@
+2015-12-13 16:29:03,209 DEBUG Started new worker 4574031872: Initial worker pool
+2015-12-13 16:29:03,209 DEBUG Started new worker 4578238464: Initial worker pool
+2015-12-13 16:29:03,210 DEBUG Started new worker 4582707200: Initial worker pool
+2015-12-13 16:29:03,210 DEBUG Started new worker 4586913792: Initial worker pool
+2015-12-13 16:29:03,211 DEBUG Started new worker 4591120384: Initial worker pool
+2015-12-13 16:29:03,211 DEBUG Started new worker 4595326976: Initial worker pool
+2015-12-13 16:29:03,211 DEBUG Started new worker 4599533568: Initial worker pool
+2015-12-13 16:29:03,211 DEBUG Started new worker 4603740160: Initial worker pool
+2015-12-13 16:29:03,212 DEBUG Started new worker 4607946752: Initial worker pool
+2015-12-13 16:29:03,212 DEBUG Started new worker 4612153344: Initial worker pool
+2015-12-13 16:29:15,160 DEBUG Added task (0 tasks queued)
+2015-12-13 16:29:15,162 INFO Pushed key 100 current queue is {'100': u'message this'}
+2015-12-13 16:29:23,537 DEBUG Added task (0 tasks queued)
+2015-12-13 16:29:23,538 ERROR Exception occurred on GET end it then
+2015-12-13 16:29:23,538 INFO Popped key 101 current queue is {'100': u'message this'}
+2015-12-13 16:29:36,224 DEBUG Added task (0 tasks queued)
+2015-12-13 16:29:36,225 INFO Popped key 100 current queue is {}
